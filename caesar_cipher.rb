@@ -27,5 +27,3 @@ num = gets.chomp.to_i
 puts message
 p num
 code(message, num)
-
-# ugh
